@@ -8,6 +8,8 @@ namespace HomeWork_1
 {
     internal class comments
     {
+        string comment;
+        
         //this is comment section
     }
 }
