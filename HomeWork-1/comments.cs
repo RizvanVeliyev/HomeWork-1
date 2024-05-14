@@ -10,6 +10,7 @@ namespace HomeWork_1
     {
         string comment;
         string replyComment;
+        string profile;
         
         //this is comment section
     }
