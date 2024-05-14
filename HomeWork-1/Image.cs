@@ -8,5 +8,6 @@ namespace HomeWork_1
 {
     internal class Image
     {
+        //this is image section
     }
 }
