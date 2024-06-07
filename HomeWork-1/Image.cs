@@ -8,7 +8,7 @@ namespace HomeWork_1
 {
     internal class Image
     {
-        string imageName
+        string imageName;
         //this is image section
     }
 }
